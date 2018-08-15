@@ -1,0 +1,72 @@
+
+
+.section{
+    width: 100%;
+    height: 100%;
+    .lisBjList-header{
+        width: 94%;
+        height: 100px;
+        line-height: 100px;
+        padding: 0 3%;
+        background: #eeeeee;
+        i{
+            font-size: 40px;
+            float: left;
+            width: 20%;
+        }
+        input{
+            width: 60%;
+            height: 50px;
+            float: left;
+            margin-top: 25px;
+        }
+        span{
+            width: 20%;
+            text-align: center;
+            margin-left: 20px;
+        }
+    }
+    .sppx{
+        width: 100%;
+        height: 80px;
+        line-height: 80px;
+        border-bottom: 1px solid #817f7f;
+        span{
+            width: 25%;
+            text-align: center;
+            display: block;
+            float: left;
+        }
+    }
+    ul{
+        width: 100%;
+        height: 100%;
+        li{
+            width: 100%;
+            height: 240px;
+            background: #fff;
+            border-bottom: 1px solid #eee;
+            img{
+                width: 30%;
+                height: 240px;
+                float: left;
+            }
+            h3{
+                width: 70%;
+                float: left;
+                margin: 20px 0;
+            }
+            p{
+                width: 70%;
+                height: 40px;
+                float: left;
+                margin-bottom: 20px;
+            }
+            b{
+                width: 70%;
+                height: 40px;
+                float: left;
+            }
+        }
+    }
+}
